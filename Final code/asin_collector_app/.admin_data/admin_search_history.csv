@@ -1,0 +1,107 @@
+Timestamp,Marketplace,Keyword,ASINs_Found
+2025-08-31 21:03:14,US,nike,0
+2025-08-31 21:03:16,CA,nike,0
+2025-08-31 21:03:46,US,nike,50
+2025-08-31 21:03:54,CA,nike,50
+2025-09-01 10:41:42,US,iPhone 17,297
+2025-09-01 10:42:45,US,iPhone 17 case,282
+2025-09-01 10:43:45,CA,iPhone 17,304
+2025-09-01 10:44:45,CA,iPhone 17 case,313
+2025-09-01 10:45:47,GB,iPhone 17,299
+2025-09-01 10:46:44,GB,iPhone 17 case,320
+2025-09-01 10:47:39,DE,iPhone 17,236
+2025-09-01 10:48:35,DE,iPhone 17 case,307
+2025-09-01 10:49:24,MX,iPhone 17,226
+2025-09-01 10:50:22,MX,iPhone 17 case,287
+2025-09-01 15:19:08,US,iphone 17 pro max matte screen protector,147
+2025-09-01 15:19:20,US,iphone 17 pro max case spigen,43
+2025-09-01 15:19:30,CA,iphone 17 pro max matte screen protector,58
+2025-09-01 15:19:40,CA,iphone 17 pro max case spigen,37
+2025-09-01 15:20:38,GB,iphone 17 pro max matte screen protector,331
+2025-09-01 15:20:52,GB,iphone 17 pro max case spigen,89
+2025-09-01 15:21:43,DE,iphone 17 pro max matte screen protector,319
+2025-09-01 15:22:06,DE,iphone 17 pro max case spigen,142
+2025-09-01 15:22:30,MX,iphone 17 pro max matte screen protector,303
+2025-09-01 15:22:55,MX,iphone 17 pro max case spigen,326
+2025-09-02 10:20:18,FR,iPhone 17,279
+2025-09-02 10:21:20,FR,iphone 17  camera cover,302
+2025-09-02 10:22:21,FR,iphone 17  screen protector,299
+2025-09-02 10:23:25,FR,iPhone 17 case,302
+2025-09-02 10:24:27,FR,iphone 17 case pro,301
+2025-09-02 10:25:31,FR,Iphone 17 pro max,289
+2025-09-02 10:26:32,FR,iphone 17 pro max camera lens protector,294
+2025-09-02 10:27:33,FR,iphone 17 pro max case,295
+2025-09-02 10:28:36,IT,iPhone 17,214
+2025-09-02 10:29:15,IT,iphone 17  camera cover,159
+2025-09-02 10:29:52,IT,iphone 17  screen protector,156
+2025-09-02 10:30:56,IT,iPhone 17 case,245
+2025-09-02 10:32:03,IT,iphone 17 case pro,190
+2025-09-02 10:33:05,IT,Iphone 17 pro max,174
+2025-09-02 10:34:04,IT,iphone 17 pro max camera lens protector,191
+2025-09-02 10:34:45,IT,iphone 17 pro max case,160
+2025-09-02 10:35:18,ES,iPhone 17,152
+2025-09-02 10:36:17,ES,iphone 17  camera cover,298
+2025-09-02 10:40:32,ES,iPhone 17,68
+2025-09-02 10:41:30,ES,iphone 17  camera cover,293
+2025-09-02 10:42:29,ES,iphone 17  screen protector,290
+2025-09-02 10:43:32,ES,iPhone 17 case,302
+2025-09-02 10:44:32,ES,"iphone 17 case pro
+Iphone 17 pro max",287
+2025-09-02 10:45:29,ES,iphone 17 pro max camera lens protector,276
+2025-09-02 10:46:27,ES,iphone 17 pro max case,292
+2025-09-02 10:47:01,NL,iPhone 17,127
+2025-09-02 10:47:54,NL,iphone 17  camera cover,171
+2025-09-02 10:48:24,NL,iphone 17  screen protector,109
+2025-09-02 10:49:17,NL,iPhone 17 case,181
+2025-09-02 10:50:13,NL,"iphone 17 case pro
+Iphone 17 pro max",148
+2025-09-02 10:51:09,NL,iphone 17 pro max camera lens protector,170
+2025-09-02 10:51:42,NL,iphone 17 pro max case,112
+2025-09-02 10:52:38,PL,iPhone 17,269
+2025-09-02 10:53:13,PL,iphone 17  camera cover,128
+2025-09-02 10:53:58,PL,iphone 17  screen protector,122
+2025-09-03 10:22:38,SE,iPhone'a  & 17,279
+2025-09-03 10:22:47,SE,iPhone'a17 & pro & max,88
+2025-09-03 10:23:08,SE,iPhone & 17,294
+2025-09-03 10:23:28,SE,iPhone17,240
+2025-09-03 10:23:37,SE,iPhone17 & Pro & Max,89
+2025-09-03 10:23:39,SE,iPhone17,240
+2025-09-03 10:24:00,BE,iPhone'a  & 17,217
+2025-09-03 10:24:06,BE,iPhone'a17 & pro & max,87
+2025-09-03 10:24:27,BE,iPhone & 17,227
+2025-09-03 10:24:44,BE,iPhone17,219
+2025-09-03 10:24:49,BE,iPhone17 & Pro & Max,48
+2025-09-03 10:24:51,BE,iPhone17,219
+2025-09-03 10:25:40,IN,iPhone'a  & 17,313
+2025-09-03 10:25:53,IN,iPhone'a17 & pro & max,58
+2025-09-03 10:26:38,IN,iPhone & 17,335
+2025-09-03 10:27:25,IN,iPhone17,284
+2025-09-03 10:27:44,IN,iPhone17 & Pro & Max,96
+2025-09-03 10:27:47,IN,iPhone17,284
+2025-09-03 10:28:20,JP,iPhone'a  & 17,363
+2025-09-03 10:28:29,JP,iPhone'a17 & pro & max,70
+2025-09-03 10:29:15,JP,iPhone & 17,412
+2025-09-03 10:30:03,JP,iPhone17,431
+2025-09-03 10:30:14,JP,iPhone17 & Pro & Max,117
+2025-09-03 10:30:16,JP,iPhone17,431
+2025-09-03 10:31:03,BE,iPhone17 & Pro & Max,48
+2025-09-03 10:31:12,BE,iPhone17 & Pro & Max,48
+2025-09-03 11:06:58,BE,iPhone17 & Pro & Max,48
+2025-09-03 11:07:11,BE,iPhone17 & Pro & Max,50
+2025-09-03 21:37:24,US,soccer  cleats,371
+2025-09-03 21:37:56,US,football Shoes,342
+2025-09-03 21:38:49,US,basketball Shoes,381
+2025-09-03 21:39:17,CA,soccer  cleats,308
+2025-09-03 21:39:40,CA,football Shoes,279
+2025-09-03 21:40:09,CA,basketball Shoes,295
+2025-09-03 21:40:35,GB,soccer  cleats,292
+2025-09-03 21:40:57,GB,football Shoes,289
+2025-09-03 21:41:22,GB,basketball Shoes,291
+2025-09-03 21:41:53,DE,soccer  cleats,294
+2025-09-03 21:42:19,DE,football Shoes,276
+2025-09-03 21:42:41,DE,basketball Shoes,294
+2025-09-03 21:43:03,FR,soccer  cleats,254
+2025-09-03 21:43:27,FR,football Shoes,300
+2025-09-03 21:43:49,FR,basketball Shoes,315
+2025-09-03 21:44:19,ES,soccer  cleats,267
+2025-09-03 21:44:46,ES,football Shoes,270

@@ -1,0 +1,89 @@
+{
+  "pairs": {
+    "US||soccer  cleats": {
+      "last_page": 12,
+      "count": 371,
+      "done": false
+    },
+    "US||football Shoes": {
+      "last_page": 11,
+      "count": 342,
+      "done": false
+    },
+    "US||basketball Shoes": {
+      "last_page": 19,
+      "count": 381,
+      "done": false
+    },
+    "CA||soccer  cleats": {
+      "last_page": 9,
+      "count": 308,
+      "done": false
+    },
+    "CA||football Shoes": {
+      "last_page": 8,
+      "count": 279,
+      "done": false
+    },
+    "CA||basketball Shoes": {
+      "last_page": 11,
+      "count": 295,
+      "done": false
+    },
+    "GB||soccer  cleats": {
+      "last_page": 9,
+      "count": 292,
+      "done": false
+    },
+    "GB||football Shoes": {
+      "last_page": 8,
+      "count": 289,
+      "done": false
+    },
+    "GB||basketball Shoes": {
+      "last_page": 9,
+      "count": 291,
+      "done": false
+    },
+    "DE||soccer  cleats": {
+      "last_page": 11,
+      "count": 294,
+      "done": false
+    },
+    "DE||football Shoes": {
+      "last_page": 10,
+      "count": 276,
+      "done": false
+    },
+    "DE||basketball Shoes": {
+      "last_page": 8,
+      "count": 294,
+      "done": false
+    },
+    "FR||soccer  cleats": {
+      "last_page": 8,
+      "count": 254,
+      "done": false
+    },
+    "FR||football Shoes": {
+      "last_page": 8,
+      "count": 300,
+      "done": false
+    },
+    "FR||basketball Shoes": {
+      "last_page": 8,
+      "count": 315,
+      "done": false
+    },
+    "ES||soccer  cleats": {
+      "last_page": 10,
+      "count": 267,
+      "done": false
+    },
+    "ES||football Shoes": {
+      "last_page": 9,
+      "count": 270,
+      "done": false
+    }
+  }
+}

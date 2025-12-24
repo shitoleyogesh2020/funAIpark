@@ -1585,12 +1585,8 @@ body {
 }
 
 .test-content {
-    flex: 1;
-    padding: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 0;
+    padding: 1rem;
+    overflow-y: auto;
 }
 
 .scrollable-content {

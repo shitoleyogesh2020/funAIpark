@@ -23,7 +23,7 @@ class FunAIApp {
     getUserId() {
         let userId = localStorage.getItem('userId');
         if (!userId) {
-            userId = 'user_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+            userId = Math.random().toString(36).substr(2, 6).toUpperCase();
             localStorage.setItem('userId', userId);
         }
         return userId;

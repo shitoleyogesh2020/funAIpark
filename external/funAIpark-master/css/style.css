@@ -1648,6 +1648,40 @@ body {
         box-shadow: none !important;
     }
     
+    .question-card h3, .question-card h4 {
+        color: var(--dark) !important;
+    }
+    
+    .social-option {
+        background: white !important;
+        color: var(--dark) !important;
+    }
+    
+    .option-content p {
+        color: var(--dark) !important;
+    }
+    
+    /* Flatten all card elements on mobile */
+    .result-card, .result-summary, .character-card, .personality-card, .future-card,
+    .upload-area, .char-option, .filter-option, .option-btn, .behavior-btn, .scale-btn {
+        background: transparent !important;
+        box-shadow: none !important;
+        border: none !important;
+        border-radius: 0 !important;
+    }
+    
+    .char-option, .filter-option {
+        border: 1px solid #e5e7eb !important;
+        background: white !important;
+        margin-bottom: 0.5rem;
+    }
+    
+    .option-btn, .behavior-btn, .scale-btn {
+        background: white !important;
+        border: 1px solid #e5e7eb !important;
+        color: var(--dark) !important;
+    }
+    
     .test-header {
         flex-direction: column;
         padding: 1rem;
